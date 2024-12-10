@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/mysql-connector-j-8.0.32.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/flatlaf-extras-3.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/flatlaf-3.0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/flatlaf-fonts-roboto-2.137.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/javax.mail.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/itextpdf-5.5.12.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/javax.activation-1.2.0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/zxing-1.7-javase.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/zxing-core-2.0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/swingx-all-1.6.4.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/javase-3.3.0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/bridj-0.7.0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/core-3.3.0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/jcalendar-1.4.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/log4j-core-2.20.0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/slf4j-api-1.7.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/slf4j-api-1.7.25.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/slf4j-simple-1.7.25.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/svgSalamander-1.1.4.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/TimingFramework-0.55.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/webcam-capture-0.3.12.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/commons-codec-1.15.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/commons-collections4-4.4.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/commons-compress-1.21.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/commons-io-2.11.0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/commons-logging-1.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/commons-math3-3.6.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/curvesapi-1.07.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/jakarta.activation-2.0.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/jakarta.xml.bind-api-3.0.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/log4j-api-2.18.0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/poi-5.2.3.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/poi-examples-5.2.3.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/poi-excelant-5.2.3.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/poi-javadoc-5.2.3.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/poi-ooxml-5.2.3.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/poi-ooxml-full-5.2.3.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/poi-ooxml-lite-5.2.3.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/poi-scratchpad-5.2.3.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/slf4j-api-1.7.36.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/SparseBitSet-1.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/xmlbeans-5.1.1.jar!/" />
+    <src_description expected_position="1">
+      <src_folder value="file://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/src" expected_position="1" />
+      <src_folder value="file://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib" expected_position="2" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/bin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai">
+      <sourceFolder url="file://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/src" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="JavaSE-20" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="mysql-connector-j-8.0.32.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/mysql-connector-j-8.0.32.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="flatlaf-extras-3.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/flatlaf-extras-3.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="flatlaf-3.0.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/flatlaf-3.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="flatlaf-fonts-roboto-2.137.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/flatlaf-fonts-roboto-2.137.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="javax.mail.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/javax.mail.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="itextpdf-5.5.12.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/itextpdf-5.5.12.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="javax.activation-1.2.0.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/javax.activation-1.2.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="zxing-1.7-javase.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/zxing-1.7-javase.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="zxing-core-2.0.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/zxing-core-2.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="swingx-all-1.6.4.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/swingx-all-1.6.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="javase-3.3.0.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/javase-3.3.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="bridj-0.7.0.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/bridj-0.7.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="core-3.3.0.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/core-3.3.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jcalendar-1.4.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/jcalendar-1.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="log4j-core-2.20.0.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/log4j-core-2.20.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="slf4j-api-1.7.2.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/slf4j-api-1.7.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="slf4j-api-1.7.25.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/slf4j-api-1.7.25.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="slf4j-simple-1.7.25.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/slf4j-simple-1.7.25.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="svgSalamander-1.1.4.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/svgSalamander-1.1.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="TimingFramework-0.55.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/TimingFramework-0.55.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="webcam-capture-0.3.12.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/webcam-capture-0.3.12.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-codec-1.15.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/commons-codec-1.15.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-collections4-4.4.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/commons-collections4-4.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-compress-1.21.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/commons-compress-1.21.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-io-2.11.0.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/commons-io-2.11.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-logging-1.2.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/commons-logging-1.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-math3-3.6.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/commons-math3-3.6.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="curvesapi-1.07.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/curvesapi-1.07.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jakarta.activation-2.0.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/jakarta.activation-2.0.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jakarta.xml.bind-api-3.0.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/jakarta.xml.bind-api-3.0.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="log4j-api-2.18.0.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/log4j-api-2.18.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="poi-5.2.3.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/poi-5.2.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="poi-examples-5.2.3.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/poi-examples-5.2.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="poi-excelant-5.2.3.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/poi-excelant-5.2.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="poi-javadoc-5.2.3.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/poi-javadoc-5.2.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="poi-ooxml-5.2.3.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/poi-ooxml-5.2.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="poi-ooxml-full-5.2.3.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/poi-ooxml-full-5.2.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="poi-ooxml-lite-5.2.3.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/poi-ooxml-lite-5.2.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="poi-scratchpad-5.2.3.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/poi-scratchpad-5.2.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="slf4j-api-1.7.36.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/slf4j-api-1.7.36.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="SparseBitSet-1.2.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/SparseBitSet-1.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="xmlbeans-5.1.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../QL_khodienthoai/Ql_Khodienthoai/lib/xmlbeans-5.1.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
